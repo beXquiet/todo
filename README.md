@@ -1,1 +1,1 @@
-# todo
+# In this repository, I will show the process of creating my personal todo app. Anyone who comes here will be able to create the same application, and moreover customize it any way they want.
